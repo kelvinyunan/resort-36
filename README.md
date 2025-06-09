@@ -1,3 +1,3 @@
-# The Wild Oasis
+# Resort 36
 
-Booking tracker project
+Booking Management project
